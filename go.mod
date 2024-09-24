@@ -1,4 +1,4 @@
-module github.com/energye/systray
+module github.com/loopingz/golang-systray
 
 go 1.13
 
